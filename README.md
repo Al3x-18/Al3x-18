@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Al3x-18
 - 👀 I’m interested in Java / C#
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Unity/C#
